@@ -13,8 +13,8 @@ The React Video Quote App is a simple web application that allows users to brows
 - [License](#license)
 
 ## Features
-- Play video quotes from famous individuals.
-- View image quotes with text captions.
+- Play's inspirational video's from famous individuals.
+- Users can click the next or previous button to cycle between videos.
 
 ## Installation
 

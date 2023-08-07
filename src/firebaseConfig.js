@@ -10,7 +10,13 @@ import { getAnalytics } from "firebase/analytics";
 
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+<<<<<<< HEAD
 
+=======
+const firebaseConfig = {
+  
+};
+>>>>>>> 66afa72a82068a9e187f0a4e88d1c4b5d4f2d82b
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);

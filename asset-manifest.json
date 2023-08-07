@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Video-Streaming-Application/static/css/main.88f4f4e9.css",
+    "main.js": "/React-Video-Streaming-Application/static/js/main.9e3355e8.js",
+    "static/js/787.43cbfe13.chunk.js": "/React-Video-Streaming-Application/static/js/787.43cbfe13.chunk.js",
+    "index.html": "/React-Video-Streaming-Application/index.html",
+    "main.88f4f4e9.css.map": "/React-Video-Streaming-Application/static/css/main.88f4f4e9.css.map",
+    "main.9e3355e8.js.map": "/React-Video-Streaming-Application/static/js/main.9e3355e8.js.map",
+    "787.43cbfe13.chunk.js.map": "/React-Video-Streaming-Application/static/js/787.43cbfe13.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88f4f4e9.css",
+    "static/js/main.9e3355e8.js"
+  ]
+}

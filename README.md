@@ -46,7 +46,7 @@ To run the app locally, use the following command:
 npm start
 ```
 
-The app will be available at `http://localhost:3000` in your web browser.
+The app will be available at `[http://localhost:3000](https://nicholascorcoran2003.github.io/WordsofWisdom/)` in your web browser.
 
 ## Technologies
 

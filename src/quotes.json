@@ -1,0 +1,39 @@
+[
+  {
+      "id": 1,
+      "quote": "Warren Buffet Explains Why Investing in Yourself Is The Best Investment You can Make",
+      "author": "Warren Buffet",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/quote-app-16df8.appspot.com/o/Warren%20buffett.mp4?alt=media&token=c4cd3bff-8a96-484a-bbc6-84f9d28e6634"
+  },
+  {
+    "id": 2,
+    "quote": "Just A Sick Video Of The 🐐",
+    "author": "Micheal Jordan",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/quote-app-16df8.appspot.com/o/Michael%20Jordan.mp4?alt=media&token=e97d7015-b9e5-47c4-916f-f3bae533feb9"
+  },
+  {
+      "id": 3,
+      "quote": "Work Ethic",
+      "author": "Elon Musk",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/quote-app-16df8.appspot.com/o/Elon%20Musk.mp4?alt=media&token=7e6c3908-c96b-4765-a8b0-f0fe074774be"
+  },
+  {
+      "id": 4,
+      "quote": "Charlie Munger Explains The Secret To Life",
+      "author": "Charlie Munger",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/quote-app-16df8.appspot.com/o/Charlie%20Munger.mp4?alt=media&token=0106bcf8-84ba-4c03-83db-0e2f8939717f"
+  },
+  {
+      "id": 5,
+      "quote": "Jeff Bezos Gives Life Advice To Young People",
+      "author": "Jeff Bezos",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/quote-app-16df8.appspot.com/o/Jeff%20Bezos.mp4?alt=media&token=6418d2d3-0321-4a13-aa2f-401a0b339b1c"
+  },
+  {
+      "id": 6,
+      "quote": "Neil Degrass Tyson why learning Math is so important ",
+      "author": "Neil Degrass Tyson",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/quote-app-16df8.appspot.com/o/Why%20Everyone%20should%20learn%20Math%20in%20school%20-%20Neil%20deGrasse.mp4?alt=media&token=0ccc5425-2193-443c-9de7-90cc3e34e285"
+  }
+]
+  

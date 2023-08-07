@@ -1,6 +1,6 @@
 
 # React Video Quote App
-Click this link to view Project https://nicholascorcoran2003.github.io/WordsofWisdom/
+Click this link to view Project https://nicholascorcoran2003.github.io/React-Video-Streaming-Application/
 The React Video Quote App is a simple web application that allows users to browse through a collection of video quotes from famous individuals. Videos are stored in fire base. Currenlty there is only 6 videos but more may be added. 
 
 ## Table of Contents
